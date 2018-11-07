@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by Teable. T
 
 exec 2> /tmp/setup.log
 
